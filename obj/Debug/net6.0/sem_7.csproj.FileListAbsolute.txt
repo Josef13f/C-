@@ -1,0 +1,15 @@
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.csproj.AssemblyReference.cache
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.AssemblyInfoInputs.cache
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.AssemblyInfo.cs
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.csproj.CoreCompileInputs.cache
+C:\2024\1 meet with code languases\Практики\sem_7\bin\Debug\net6.0\sem_7.exe
+C:\2024\1 meet with code languases\Практики\sem_7\bin\Debug\net6.0\sem_7.deps.json
+C:\2024\1 meet with code languases\Практики\sem_7\bin\Debug\net6.0\sem_7.runtimeconfig.json
+C:\2024\1 meet with code languases\Практики\sem_7\bin\Debug\net6.0\sem_7.dll
+C:\2024\1 meet with code languases\Практики\sem_7\bin\Debug\net6.0\sem_7.pdb
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.dll
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\refint\sem_7.dll
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.pdb
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\sem_7.genruntimeconfig.cache
+C:\2024\1 meet with code languases\Практики\sem_7\obj\Debug\net6.0\ref\sem_7.dll
